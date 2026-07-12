@@ -45,4 +45,4 @@ class CameraRecorder:
 recorder = CameraRecorder()
 
 # Call the record_video method
-recorder.record_video()
+recorder.record_video()
