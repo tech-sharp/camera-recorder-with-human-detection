@@ -55,4 +55,4 @@ The presence of a visible clock provides essential temporal context, allowing fo
 The strategic incorporation of a visible clock elevates the efficacy of the camera recorder application with human detection, delivering a comprehensive and precise view of the recorded events.
 
 # Demo
-[![Demo Video](http://i3.ytimg.com/vi/kRqsAjyVNQQ/hqdefault.jpg)](https://youtu.be/kRqsAjyVNQQ)
+[![Demo Video](http://i3.ytimg.com/vi/kRqsAjyVNQQ/hqdefault.jpg)](https://youtu.be/kRqsAjyVNQQ)
